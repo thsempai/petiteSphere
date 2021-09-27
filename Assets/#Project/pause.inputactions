@@ -1,0 +1,33 @@
+{
+    "name": "pause",
+    "maps": [
+        {
+            "name": "timeChange",
+            "id": "c2d310fd-63fb-4f8e-8c99-9694b9c1962a",
+            "actions": [
+                {
+                    "name": "Pause",
+                    "type": "Button",
+                    "id": "67bfd80a-ad92-44de-ad96-1415b25b62a7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "30d00c37-60dc-4ba6-bd3c-cd030bf2986b",
+                    "path": "<Keyboard>/p",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
